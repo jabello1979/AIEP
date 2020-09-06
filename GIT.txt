@@ -6,6 +6,10 @@ git push origin master
 git diff
 git clone https://github.com/jabello1979/prueba.git
 
+git remote -v
+git remote set-url origin https://github.com/jabello1979/AIEP.git
+
+
 nuevo comando
 
 Hola
